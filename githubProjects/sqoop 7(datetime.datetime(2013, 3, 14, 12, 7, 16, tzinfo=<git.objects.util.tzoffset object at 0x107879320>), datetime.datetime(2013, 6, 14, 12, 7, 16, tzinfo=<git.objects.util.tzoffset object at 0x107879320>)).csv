@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+DirectNetezzaExportManualTest.java,159,23,2,0,1,1,0.08,381.0746268656717,390.03401291372546,0

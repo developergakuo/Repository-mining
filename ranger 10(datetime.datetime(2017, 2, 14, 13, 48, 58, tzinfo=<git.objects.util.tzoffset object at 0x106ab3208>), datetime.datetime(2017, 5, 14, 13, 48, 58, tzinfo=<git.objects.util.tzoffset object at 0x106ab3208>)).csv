@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+AuditFileCacheProviderSpool.java,740,127,1,1,1,1,0.009523809523809525,126.28571428571429,57.34246258851936,0

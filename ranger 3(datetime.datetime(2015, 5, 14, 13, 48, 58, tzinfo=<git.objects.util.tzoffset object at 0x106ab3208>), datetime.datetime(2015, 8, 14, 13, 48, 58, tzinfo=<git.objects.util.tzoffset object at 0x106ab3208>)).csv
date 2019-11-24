@@ -1,0 +1,4 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+PolicyRefresher.java,215,57,2,0,1,2,0.011235955056179775,346.0952380952381,80.16994583845317,1
+RangerRESTClient.java,284,54,1,0,1,1,0.0056179775280898875,346.0952380952381,80.16994583845317,1
+HBaseConnectionMgr.java,93,18,1,0,1,1,0.0056179775280898875,346.0952380952381,80.16994583845317,1

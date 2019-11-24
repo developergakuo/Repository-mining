@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ClusterSpec.java,849,181,1,2,1,1,0.5,162.0,53.98757693017247,0

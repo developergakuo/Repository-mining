@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ExtensionManager.java,234,19,2,10,1,2,0.11764705882352941,80.0,21.33055421730081,0

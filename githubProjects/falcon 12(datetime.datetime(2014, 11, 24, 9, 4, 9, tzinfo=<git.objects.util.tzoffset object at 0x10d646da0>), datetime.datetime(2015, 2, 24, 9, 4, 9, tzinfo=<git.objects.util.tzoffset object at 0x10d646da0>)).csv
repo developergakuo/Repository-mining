@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+OozieWorkflowEngine.java,1263,290,5,0,4,1,0.07575757575757576,1276.7859649122806,514.2437219121919,1

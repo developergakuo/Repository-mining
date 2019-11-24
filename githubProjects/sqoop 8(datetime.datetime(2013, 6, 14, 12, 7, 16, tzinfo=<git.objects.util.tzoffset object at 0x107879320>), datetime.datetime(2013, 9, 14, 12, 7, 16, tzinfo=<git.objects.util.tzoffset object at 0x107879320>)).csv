@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ThirdPartyTests.java,90,2,6,0,3,1,0.3,338.2739726027397,598.4610283993545,1

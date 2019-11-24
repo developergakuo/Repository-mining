@@ -1,0 +1,4 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+SqoopOptions.java,1607,409,2,0,2,1,0.14285714285714285,242.8685714285714,223.2422553443439,1
+BaseSqoopTool.java,1384,238,1,0,1,1,0.07142857142857142,151.44,164.27447318570617,0
+ImportTool.java,881,190,1,0,1,1,0.07142857142857142,151.44,164.27447318570617,0

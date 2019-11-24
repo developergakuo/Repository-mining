@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+PGBulkloadExportJob.java,150,19,1,0,1,1,0.0625,127.80952380952381,140.98312913906494,0

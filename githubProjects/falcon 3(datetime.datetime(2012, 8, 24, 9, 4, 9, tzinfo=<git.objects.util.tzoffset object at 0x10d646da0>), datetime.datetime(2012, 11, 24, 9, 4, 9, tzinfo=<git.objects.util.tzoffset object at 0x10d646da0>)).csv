@@ -1,0 +1,5 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+MessageProducer.java,139,15,1,1,1,1,0.02702702702702703,413.96875,661.3063388742037,1
+AbstractOozieEntityMapper.java,259,42,11,1,2,2,0.2972972972972973,703.6272865853658,1034.042121901151,1
+SharedLibraryHostingService.java,101,25,4,0,2,1,0.10810810810810811,703.6272865853658,1034.042121901151,1
+OozieWorkflowBuilder.java,47,4,6,0,2,1,0.16216216216216217,703.6272865853658,1034.042121901151,1

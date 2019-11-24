@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ListClusterCommand.java,59,8,3,1,1,1,0.10344827586206896,1709.7886178861788,417.32917462865356,1

@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+RangerBaseService.java,214,45,1,0,1,1,0.022727272727272728,36.0,7.486033519553073,0

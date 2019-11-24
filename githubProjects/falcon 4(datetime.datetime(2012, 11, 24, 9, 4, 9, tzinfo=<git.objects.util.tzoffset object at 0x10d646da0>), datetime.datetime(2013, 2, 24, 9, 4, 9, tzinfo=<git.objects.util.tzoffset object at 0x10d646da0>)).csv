@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+AbstractCleanupHandler.java,105,15,2,1,1,1,0.16666666666666666,82.2,375.2707715453333,1

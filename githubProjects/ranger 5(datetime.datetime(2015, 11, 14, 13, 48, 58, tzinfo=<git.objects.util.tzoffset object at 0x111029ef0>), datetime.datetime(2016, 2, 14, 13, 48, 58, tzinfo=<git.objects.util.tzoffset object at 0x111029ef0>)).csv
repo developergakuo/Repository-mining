@@ -1,0 +1,3 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+RangerBizUtil.java,1108,331,3,0,2,1,0.04285714285714286,764.7142857142857,354.98474837523753,1
+UserSessionBase.java,106,27,2,0,2,1,0.02857142857142857,1462.942857142857,670.8546362371555,1

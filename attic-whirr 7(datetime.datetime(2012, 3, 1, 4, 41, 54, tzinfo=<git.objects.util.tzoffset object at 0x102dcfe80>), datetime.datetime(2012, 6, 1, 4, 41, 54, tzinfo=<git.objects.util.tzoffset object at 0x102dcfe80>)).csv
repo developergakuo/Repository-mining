@@ -1,0 +1,6 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ConfigurationReader.java,48,7,1,0,1,1,0.034482758620689655,945.8765432098764,265.4909846237878,0
+WhirrCommandSupport.java,64,13,1,0,1,1,0.034482758620689655,945.8765432098764,265.4909846237878,0
+WhirrInstallationTest.java,33,2,1,0,1,1,0.034482758620689655,945.8765432098764,265.4909846237878,0
+WhirrKarafTestSupport.java,196,34,5,0,2,1,0.1724137931034483,1196.1842355175688,310.67371890534355,1
+WhirrServicesTest.java,58,4,9,0,2,1,0.3103448275862069,1196.1842355175688,310.67371890534355,0

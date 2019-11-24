@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+MainframeManager.java,111,19,1,0,1,1,0.038461538461538464,412.45714285714286,284.7277028592057,0

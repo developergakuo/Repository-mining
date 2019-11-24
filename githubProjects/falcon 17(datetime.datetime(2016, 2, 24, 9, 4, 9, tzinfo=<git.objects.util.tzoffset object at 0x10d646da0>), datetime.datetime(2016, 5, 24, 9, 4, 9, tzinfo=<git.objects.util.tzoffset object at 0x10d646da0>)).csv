@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+AbstractInstanceManager.java,889,177,4,0,3,1,0.05714285714285714,2023.2647527910685,839.5415887388492,1

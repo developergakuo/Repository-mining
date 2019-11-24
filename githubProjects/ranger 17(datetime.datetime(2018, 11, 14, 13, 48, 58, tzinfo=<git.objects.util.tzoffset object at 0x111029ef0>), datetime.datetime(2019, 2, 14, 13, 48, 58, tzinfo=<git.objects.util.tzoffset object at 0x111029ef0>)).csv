@@ -1,0 +1,3 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+RangerKRBAuthenticationFilter.java,579,84,1,0,1,1,0.05555555555555555,0,0,0
+XUserMgr.java,2138,575,4,2,4,2,0.2222222222222222,1378.4710144927537,599.3078296832516,0

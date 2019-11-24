@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+AvroUtil.java,207,58,1,0,1,1,0.05263157894736842,622.8470588235294,1004.631173108544,0

@@ -1,0 +1,4 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+FeedMerlin.java,379,60,3,0,1,1,0.029411764705882353,677.547619047619,510.10184921403464,0
+AbstractSearchPage.java,154,28,8,0,2,1,0.0784313725490196,1036.517316017316,698.6074101462123,1
+FeedWizardPage.java,547,128,3,0,2,1,0.029411764705882353,1036.517316017316,698.6074101462123,1

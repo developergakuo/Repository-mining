@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb807bb1-b353-4a77-ac38-da981ede2a97" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pydriller$pydrillerMetrics.coverage" NAME="pydrillerMetrics Coverage Results" MODIFIED="1550753961959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pydrillerMetrics.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 14(datetime.datetime(2015, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2015, 8, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 17(datetime.datetime(2016, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2016, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 13(datetime.datetime(2015, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2015, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state>
+              <caret column="8" selection-start-column="5" selection-end-column="8" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 12(datetime.datetime(2014, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2015, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 9(datetime.datetime(2014, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2014, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 8(datetime.datetime(2013, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2014, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 6(datetime.datetime(2013, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2013, 8, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 4(datetime.datetime(2012, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2013, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor" />
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/githubProjects/falcon 3(datetime.datetime(2012, 8, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2012, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state>
+              <caret column="8" selection-start-column="5" selection-end-column="8" />
+            </state>
+          </provider>
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>PAST</find>
+      <find>complexity_and_loc_pair</find>
+      <find>compute_fileMetrics</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/githubProjects/aries" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pydrillerMetrics.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="962" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/githubProjects" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="pydrillerMetrics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pydriller" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pydrillerMetrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pydrillerMetrics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb807bb1-b353-4a77-ac38-da981ede2a97" name="Default Changelist" comment="" />
+      <created>1550435806350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550435806350</updated>
+      <workItem from="1550435809722" duration="9532000" />
+      <workItem from="1550512460218" duration="1827000" />
+      <workItem from="1550534860591" duration="12124000" />
+      <workItem from="1550753351506" duration="1071000" />
+      <workItem from="1551391449942" duration="1616000" />
+      <workItem from="1558105345372" duration="27000" />
+      <workItem from="1558105871204" duration="464000" />
+      <workItem from="1558181549862" duration="127000" />
+      <workItem from="1574262695326" duration="1115000" />
+      <workItem from="1574444110089" duration="217000" />
+      <workItem from="1574606296071" duration="4090000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32210000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="962" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.43467644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.96523756" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27755103" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.43467644" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.96523756" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.27755103" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pydrillerMetrics.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/aries15-(datetime.datetime(2013, 6, 29, 12, 10, 45, tzinfo=&lt;git.objects.util.tzoffset object at 0x1100bea90&gt;), datetime.datetime(2013, 9, 29, 12, 10, 45, tzinfo=&lt;git.objects.util.tzoffset object at 0x1100bea90&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/attic-whirr0.csv" />
+    <entry file="file://$PROJECT_DIR$/attic-whirr1.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 6.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 7.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 8.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 19.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 17.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 16.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 14.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 13.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 2.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 3.csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop Buggy_files(datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10dd05da0&gt;), datetime.datetime(2015, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10dd05da0&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 17(datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10dd05da0&gt;), datetime.datetime(2015, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10dd05da0&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/ranger Buggy_files(datetime.datetime(2018, 11, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x10fe76cf8&gt;), datetime.datetime(2019, 2, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x10fe76cf8&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 17(datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x110347d68&gt;), datetime.datetime(2015, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x110347d68&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop Buggy_files(datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x110347d68&gt;), datetime.datetime(2015, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x110347d68&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/ranger Buggy_files(datetime.datetime(2018, 11, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818940&gt;), datetime.datetime(2019, 2, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818940&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop Buggy_files(datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818cc0&gt;), datetime.datetime(2015, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818cc0&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/sqoop 17(datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818cc0&gt;), datetime.datetime(2015, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818cc0&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/ranger 17(datetime.datetime(2018, 11, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818940&gt;), datetime.datetime(2019, 2, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x10f818940&gt;)).csv" />
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 3(datetime.datetime(2012, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2012, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 6(datetime.datetime(2012, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2013, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 7(datetime.datetime(2013, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2013, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 8(datetime.datetime(2013, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2013, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 13(datetime.datetime(2014, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2014, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 14(datetime.datetime(2014, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2015, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 16(datetime.datetime(2015, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 17(datetime.datetime(2015, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2015, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 19(datetime.datetime(2016, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2016, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 22(datetime.datetime(2016, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2017, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 23(datetime.datetime(2017, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2017, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 24(datetime.datetime(2017, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2017, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 28(datetime.datetime(2018, 6, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2018, 9, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/sqoop 2(datetime.datetime(2011, 12, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;), datetime.datetime(2012, 3, 14, 12, 7, 16, tzinfo=&lt;git.objects.util.tzoffset object at 0x107879320&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 21(datetime.datetime(2017, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2017, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 20(datetime.datetime(2016, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2017, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 18(datetime.datetime(2016, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2016, 8, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ranger 10(datetime.datetime(2017, 2, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x111029ef0&gt;), datetime.datetime(2017, 5, 14, 13, 48, 58, tzinfo=&lt;git.objects.util.tzoffset object at 0x111029ef0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pydrillerMetrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 14(datetime.datetime(2015, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2015, 8, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 17(datetime.datetime(2016, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2016, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 13(datetime.datetime(2015, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2015, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="8" selection-start-column="5" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 12(datetime.datetime(2014, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2015, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 9(datetime.datetime(2014, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2014, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 8(datetime.datetime(2013, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2014, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 6(datetime.datetime(2013, 5, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2013, 8, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 4(datetime.datetime(2012, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2013, 2, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/githubProjects/falcon 3(datetime.datetime(2012, 8, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;), datetime.datetime(2012, 11, 24, 9, 4, 9, tzinfo=&lt;git.objects.util.tzoffset object at 0x10d646da0&gt;)).csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state>
+          <caret column="8" selection-start-column="5" selection-end-column="8" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+  </component>
+</project>

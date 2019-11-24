@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+ServiceDBStore.java,4117,906,5,2,4,1,0.11627906976744186,608.0553359683795,396.6819087716307,1

@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+FeedEvictor.java,439,69,3,1,2,1,0.057692307692307696,1148.1153846153845,726.1052237864083,1

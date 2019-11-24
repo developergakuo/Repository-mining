@@ -1,0 +1,4 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+RangerPolicyRetriever.java,572,146,2,1,1,1,0.014184397163120567,442.1694915254237,388.6652036579812,1
+AppConstants.java,712,189,1,0,1,1,0.0070921985815602835,442.1694915254237,388.6652036579812,1
+XXAccessAuditDao.java,89,17,1,0,1,1,0.0070921985815602835,442.1694915254237,388.6652036579812,1

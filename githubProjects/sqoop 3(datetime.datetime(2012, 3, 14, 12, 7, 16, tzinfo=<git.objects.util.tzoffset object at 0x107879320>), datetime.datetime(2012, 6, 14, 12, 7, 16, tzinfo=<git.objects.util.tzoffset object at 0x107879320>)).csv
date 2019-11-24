@@ -1,0 +1,4 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+DirectPostgresqlManager.java,341,59,1,0,1,1,0.05263157894736842,124.48,128.01883361995053,0
+BaseSqoopTool.java,774,115,3,0,3,1,0.15789473684210525,79.81818181818181,98.34240129910575,0
+ConnManager.java,271,84,2,0,1,1,0.10526315789473684,124.48,128.01883361995053,1

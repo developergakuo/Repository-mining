@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+TestExport.java,742,73,1,0,1,1,0.07142857142857142,185.0344827586207,146.32758170562133,0

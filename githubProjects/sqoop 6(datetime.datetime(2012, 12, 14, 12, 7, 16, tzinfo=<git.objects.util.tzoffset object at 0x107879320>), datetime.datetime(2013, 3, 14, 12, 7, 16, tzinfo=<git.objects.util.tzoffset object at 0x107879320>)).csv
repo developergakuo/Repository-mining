@@ -1,0 +1,4 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+DataDrivenDBInputFormat.java,222,49,3,0,3,1,0.10714285714285714,414.7843137254902,454.29751674745046,1
+SqoopOptions.java,1214,310,3,1,2,1,0.10714285714285714,370.7843137254902,377.3423880869089,1
+BaseSqoopTool.java,858,134,4,1,2,1,0.14285714285714285,370.7843137254902,377.3423880869089,1

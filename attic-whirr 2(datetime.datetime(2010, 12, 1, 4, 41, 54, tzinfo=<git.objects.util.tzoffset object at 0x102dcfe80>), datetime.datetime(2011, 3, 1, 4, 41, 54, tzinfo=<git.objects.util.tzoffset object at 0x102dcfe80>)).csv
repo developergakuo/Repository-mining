@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+HadoopService.java,9,1,3,1,1,2,0.06666666666666667,648.6470588235294,333.22508349476715,1

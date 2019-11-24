@@ -1,0 +1,3 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+AbstractEntityHelper.java,502,98,5,1,2,1,0.05263157894736842,580.7067307692307,353.08272250477734,1
+Util.java,361,65,5,2,3,1,0.05263157894736842,1559.492445054945,914.7129834881432,1

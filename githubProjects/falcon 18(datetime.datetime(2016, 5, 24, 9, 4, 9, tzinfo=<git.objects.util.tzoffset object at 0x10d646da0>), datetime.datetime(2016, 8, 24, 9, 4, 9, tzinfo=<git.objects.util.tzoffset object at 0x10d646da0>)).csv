@@ -1,0 +1,2 @@
+File,loc,cyclomatic_Complexity,number_of_Changes,number_of_past_faults,number_of_developers,change_burst,change_entropy,structural_scattering,semantic_scattering,is_buggy
+MetadataMappingServiceTest.java,958,100,2,0,2,1,0.02857142857142857,623.0763636363636,291.1234305242833,0
